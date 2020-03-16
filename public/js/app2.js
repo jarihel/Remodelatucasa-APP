@@ -3,7 +3,7 @@ let app = document.querySelector('#app');
 let i;
 let resultado;
 app.innerHTML = '';
-let dir = "http://localhost:8181/resultado.json"
+let dir = "../resultado.json"
 
 window.onload = traerdatos2();
 
