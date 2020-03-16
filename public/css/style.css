@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+}
+
+.cabecera {
+    position: relative;
+    height: 115px;
+    width: 100%;
+    background-color: black;
+    font-size: 10px;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #fff;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 32px;
+}
+
+
+.logo1{
+ 
+
+object-position:50% 50%;
+
+object-fit:cover;
+display: inline;
+}
+.logo2 {
+    
+    display: inline;
+object-position:50% 50%;
+
+object-fit:cover
+
+
+
+}
