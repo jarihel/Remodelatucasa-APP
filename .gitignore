@@ -1,6 +1,5 @@
 
 node_modules/
-content/marketing/
-content/pagos/
-content/ventas/
+content/marketing
+content/pagos
 resultado.json
